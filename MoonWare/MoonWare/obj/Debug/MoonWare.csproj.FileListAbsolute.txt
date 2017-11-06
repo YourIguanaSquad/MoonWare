@@ -1,0 +1,10 @@
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\bin\Debug\MoonWare.exe.config
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\bin\Debug\MoonWare.exe
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\bin\Debug\MoonWare.pdb
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.csprojResolveAssemblyReference.cache
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.Form1.resources
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.Properties.Resources.resources
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.csproj.GenerateResource.Cache
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.csproj.CoreCompileInputs.cache
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.exe
+C:\Users\MainUser\source\repos\MoonWare\MoonWare\obj\Debug\MoonWare.pdb
